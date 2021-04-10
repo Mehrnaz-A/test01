@@ -45,5 +45,10 @@ class Test
     {
         return $this->family;
     }
+    students=[
+ new Student("Mehrnaz","asas","21"),
+    new Student("Mehrnaz","asas","21"),
+new Student("Mehrnaz","asas","21"),
+];
 
 }
